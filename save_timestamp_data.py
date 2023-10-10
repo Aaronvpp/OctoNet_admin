@@ -1,10 +1,10 @@
 import os
 import glob
-import ntplib
+# import ntplib
 from time import ctime
 from datetime import datetime
 import pickle
-import sys
+# import sys
 
 def save_timestamp_data(temp_data, index, timestamp, output_directory):
     data_folder = os.path.join(output_directory, "data")
