@@ -1,0 +1,63 @@
+Local Time: 2023-10-09 18:56:18 [INFO] NTP Time: [2023-10-09 19:56:18.955787]: Loaded configuration: {'participant': {'id': 'P001', 'age': '25', 'gender': 'M', 'ethnicity': 'Caucasian', 'height': '165', 'weight': '65'}, 'experiment': {'date': '2022-01-01', 'time': '14:00:00', 'condition': 'HW101M', 'group': 'A', 'illumination_level': 'low'}, 'task_info': {'task_name': 'Task1', 'trial_number': '5'}, 'notes': {'comments': 'Participant seemed tired during the session.'}, 'label_info': {'activity': 'sit'}}
+Local Time: 2023-10-09 18:56:18 [INFO] NTP Time: [2023-10-09 19:56:18.955875]: Loaded Polar configuration: {'record_len(in_second)': '10', 'Data storage location': 'polar/H10/data', 'polar_Datatype': 'float'}
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.955934]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.955980]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956028]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956074]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956128]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956183]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956241]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956284]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956340]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956399]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956458]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956501]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956550]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956608]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:18 [ERROR] NTP Time: [2023-10-09 19:56:18.956667]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:25 [INFO] NTP Time: [2023-10-09 19:56:25.010875]: Using NTP time as the start timmer.
+Local Time: 2023-10-09 18:56:25 [INFO] NTP Time: [2023-10-09 19:56:25.011034]: ecg_data
+Local Time: 2023-10-09 18:56:25 [INFO] NTP Time: [2023-10-09 19:56:25.011252]: get_hr_data
+Local Time: 2023-10-09 18:56:26 [INFO] NTP Time: [2023-10-09 19:56:26.012297]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:26 [INFO] NTP Time: [2023-10-09 19:56:26.012404]: ecg_data
+Local Time: 2023-10-09 18:56:26 [INFO] NTP Time: [2023-10-09 19:56:26.012634]: get_hr_data
+Local Time: 2023-10-09 18:56:27 [INFO] NTP Time: [2023-10-09 19:56:27.013876]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:27 [INFO] NTP Time: [2023-10-09 19:56:27.014007]: ecg_data
+Local Time: 2023-10-09 18:56:27 [INFO] NTP Time: [2023-10-09 19:56:27.014449]: get_hr_data
+Local Time: 2023-10-09 18:56:28 [INFO] NTP Time: [2023-10-09 19:56:28.015349]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:28 [INFO] NTP Time: [2023-10-09 19:56:28.015467]: ecg_data
+Local Time: 2023-10-09 18:56:28 [INFO] NTP Time: [2023-10-09 19:56:28.015917]: get_hr_data
+Local Time: 2023-10-09 18:56:29 [INFO] NTP Time: [2023-10-09 19:56:29.016941]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:29 [INFO] NTP Time: [2023-10-09 19:56:29.017063]: ecg_data
+Local Time: 2023-10-09 18:56:29 [INFO] NTP Time: [2023-10-09 19:56:29.017470]: get_hr_data
+Local Time: 2023-10-09 18:56:30 [INFO] NTP Time: [2023-10-09 19:56:30.018586]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:30 [INFO] NTP Time: [2023-10-09 19:56:30.018698]: ecg_data
+Local Time: 2023-10-09 18:56:30 [INFO] NTP Time: [2023-10-09 19:56:30.019101]: get_hr_data
+Local Time: 2023-10-09 18:56:31 [INFO] NTP Time: [2023-10-09 19:56:31.020208]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:31 [INFO] NTP Time: [2023-10-09 19:56:31.020328]: ecg_data
+Local Time: 2023-10-09 18:56:31 [INFO] NTP Time: [2023-10-09 19:56:31.020837]: get_hr_data
+Local Time: 2023-10-09 18:56:32 [INFO] NTP Time: [2023-10-09 19:56:32.022570]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:32 [INFO] NTP Time: [2023-10-09 19:56:32.022689]: ecg_data
+Local Time: 2023-10-09 18:56:32 [INFO] NTP Time: [2023-10-09 19:56:32.023039]: get_hr_data
+Local Time: 2023-10-09 18:56:33 [INFO] NTP Time: [2023-10-09 19:56:33.024513]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:33 [INFO] NTP Time: [2023-10-09 19:56:33.024634]: ecg_data
+Local Time: 2023-10-09 18:56:33 [INFO] NTP Time: [2023-10-09 19:56:33.025043]: get_hr_data
+Local Time: 2023-10-09 18:56:34 [INFO] NTP Time: [2023-10-09 19:56:34.026678]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:56:34 [INFO] NTP Time: [2023-10-09 19:56:34.026771]: ecg_data
+Local Time: 2023-10-09 18:56:34 [INFO] NTP Time: [2023-10-09 19:56:34.027006]: get_hr_data
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196129]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196433]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196519]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196578]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196632]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196683]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196734]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196783]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196833]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196881]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196930]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.196979]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.197041]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.197093]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.197153]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:56:37 [ERROR] NTP Time: [2023-10-09 19:56:37.197219]: Polar H10 device not found. 

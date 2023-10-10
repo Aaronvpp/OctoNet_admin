@@ -1,0 +1,6 @@
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.209687]: Loaded configuration: {'participant': {'id': 'P001', 'age': '25', 'gender': 'M', 'ethnicity': 'Caucasian', 'height': '165', 'weight': '65'}, 'experiment': {'date': '2022-01-01', 'time': '14:00:00', 'condition': 'HW101M', 'group': 'A', 'illumination_level': 'low'}, 'task_info': {'task_name': 'Task1', 'trial_number': '5'}, 'notes': {'comments': 'Participant seemed tired during the session.'}, 'label_info': {'activity': 'sit'}}
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.209799]: Loaded mmwave configuration: {'setting1': 'value1', 'setting2': 'value2', 'Data storage location': 'AWR1843-Read-Data-Python-MMWAVE-SDK-3--master/data', 'mmwave_Datatype': 'dictionary'}
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.283104]: Using NTP time as the start timmer.
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.389321]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.497404]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:28 [INFO] NTP Time: [2023-10-09 23:09:28.490100]: End recording by a terminate action.

@@ -1,0 +1,997 @@
+Index: 0:
+Timestamp: 2023-10-09 17:33:40.290648
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70122224], dtype=float32), 'z': array([0.03541885], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 1:
+Timestamp: 2023-10-09 17:33:40.407760
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.7004708], dtype=float32), 'z': array([0.04803884], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 2:
+Timestamp: 2023-10-09 17:33:40.524742
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.6950129], dtype=float32), 'z': array([0.09961994], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 3:
+Timestamp: 2023-10-09 17:33:40.641735
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6792863], dtype=float32), 'z': array([0.05038988], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 4:
+Timestamp: 2023-10-09 17:33:40.757897
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.57262653], dtype=float32), 'y': array([0.35198128, 0.65266794], dtype=float32), 'z': array([-0.03812197,  0.08665128], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 5:
+Timestamp: 2023-10-09 17:33:40.874557
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6810997], dtype=float32), 'z': array([0.00849626], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 6:
+Timestamp: 2023-10-09 17:33:40.991847
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35177118], dtype=float32), 'z': array([-0.0400143], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 7:
+Timestamp: 2023-10-09 17:33:41.107841
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35172498], dtype=float32), 'z': array([-0.04041835], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 8:
+Timestamp: 2023-10-09 17:33:41.225381
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.6883233], dtype=float32), 'z': array([0.13848494], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 9:
+Timestamp: 2023-10-09 17:33:41.360260
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6776538], dtype=float32), 'z': array([0.06895164], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 10:
+Timestamp: 2023-10-09 17:33:41.487039
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.67880607], dtype=float32), 'z': array([0.05649183], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 11:
+Timestamp: 2023-10-09 17:33:41.605915
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6764524], dtype=float32), 'z': array([0.07988214], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 12:
+Timestamp: 2023-10-09 17:33:41.726630
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.5453586 ], dtype=float32), 'y': array([0.35240445, 0.66973835], dtype=float32), 'z': array([-0.03398856,  0.12417547], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 13:
+Timestamp: 2023-10-09 17:33:41.841510
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35231677], dtype=float32), 'z': array([-0.03488564], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 14:
+Timestamp: 2023-10-09 17:33:41.959374
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3522375], dtype=float32), 'z': array([-0.03567711], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 15:
+Timestamp: 2023-10-09 17:33:42.074462
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35210192], dtype=float32), 'z': array([-0.03699136], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 16:
+Timestamp: 2023-10-09 17:33:42.190994
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35218757], dtype=float32), 'z': array([-0.03616649], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 17:
+Timestamp: 2023-10-09 17:33:42.338765
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.67671484], dtype=float32), 'z': array([0.07762764], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 18:
+Timestamp: 2023-10-09 17:33:42.469604
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70186496], dtype=float32), 'z': array([0.01877999], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 19:
+Timestamp: 2023-10-09 17:33:42.594389
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.7021141], dtype=float32), 'z': array([0.00171049], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 20:
+Timestamp: 2023-10-09 17:33:42.710119
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70205146], dtype=float32), 'z': array([0.00953229], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 21:
+Timestamp: 2023-10-09 17:33:42.831036
+Data:
+{'numObj': 1, 'x': array([0.49082276], dtype=float32), 'y': array([0.72144073], dtype=float32), 'z': array([-0.0011388], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 22:
+Timestamp: 2023-10-09 17:33:42.954196
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.51809067], dtype=float32), 'y': array([0.35230967, 0.7020462 ], dtype=float32), 'z': array([-0.03495731, -0.00990988], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 23:
+Timestamp: 2023-10-09 17:33:43.070986
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.49218616], dtype=float32), 'y': array([0.3522916 , 0.66422975], dtype=float32), 'z': array([-0.03513878,  0.06084083], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 24:
+Timestamp: 2023-10-09 17:33:43.194559
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6743373], dtype=float32), 'z': array([0.09611554], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 25:
+Timestamp: 2023-10-09 17:33:43.325547
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.67641395], dtype=float32), 'z': array([0.0802071], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 26:
+Timestamp: 2023-10-09 17:33:43.443852
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.67805433], dtype=float32), 'z': array([0.06489448], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 27:
+Timestamp: 2023-10-09 17:33:43.561873
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.67811084], dtype=float32), 'z': array([0.06430199], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 28:
+Timestamp: 2023-10-09 17:33:43.677497
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.67766166], dtype=float32), 'z': array([0.06887424], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 29:
+Timestamp: 2023-10-09 17:33:43.795033
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.6980827], dtype=float32), 'z': array([0.07515116], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 30:
+Timestamp: 2023-10-09 17:33:43.810140
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 31:
+Timestamp: 2023-10-09 17:33:43.952146
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35213515], dtype=float32), 'z': array([-0.03667345], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 32:
+Timestamp: 2023-10-09 17:33:44.070954
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3521271], dtype=float32), 'z': array([-0.03675066], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 33:
+Timestamp: 2023-10-09 17:33:44.195295
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3523465], dtype=float32), 'z': array([-0.03458395], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 34:
+Timestamp: 2023-10-09 17:33:44.331547
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6800557], dtype=float32), 'z': array([0.03864365], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 35:
+Timestamp: 2023-10-09 17:33:44.454297
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35201475], dtype=float32), 'z': array([-0.03781163], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 36:
+Timestamp: 2023-10-09 17:33:44.468149
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 37:
+Timestamp: 2023-10-09 17:33:44.590051
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6800834], dtype=float32), 'z': array([0.03815288], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 38:
+Timestamp: 2023-10-09 17:33:44.711895
+Data:
+{'numObj': 1, 'x': array([0.57262653], dtype=float32), 'y': array([0.65720576], dtype=float32), 'z': array([0.03955319], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 39:
+Timestamp: 2023-10-09 17:33:44.726530
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 40:
+Timestamp: 2023-10-09 17:33:44.844552
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.7015893], dtype=float32), 'z': array([0.02719574], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 41:
+Timestamp: 2023-10-09 17:33:44.966022
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.7007427], dtype=float32), 'z': array([0.04389473], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 42:
+Timestamp: 2023-10-09 17:33:45.090406
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70199054], dtype=float32), 'z': array([0.01328155], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 43:
+Timestamp: 2023-10-09 17:33:45.226110
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70211613], dtype=float32), 'z': array([-0.00010766], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 44:
+Timestamp: 2023-10-09 17:33:45.468436
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.69708407], dtype=float32), 'z': array([0.08391017], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 45:
+Timestamp: 2023-10-09 17:33:45.591736
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6748954], dtype=float32), 'z': array([0.09211519], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 46:
+Timestamp: 2023-10-09 17:33:45.606865
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 47:
+Timestamp: 2023-10-09 17:33:45.725785
+Data:
+{'numObj': 1, 'x': array([0.5153639], dtype=float32), 'y': array([0.7570748], dtype=float32), 'z': array([0.02578571], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 48:
+Timestamp: 2023-10-09 17:33:45.739864
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 49:
+Timestamp: 2023-10-09 17:33:45.866902
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35186562], dtype=float32), 'z': array([-0.03917523], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 50:
+Timestamp: 2023-10-09 17:33:45.993405
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35176167], dtype=float32), 'z': array([-0.04009787], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 51:
+Timestamp: 2023-10-09 17:33:46.112683
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70121765], dtype=float32), 'z': array([-0.03550956], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 52:
+Timestamp: 2023-10-09 17:33:46.234535
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.51809067], dtype=float32), 'y': array([0.3519072 , 0.70187014], dtype=float32), 'z': array([-0.03879999,  0.01858526], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 53:
+Timestamp: 2023-10-09 17:33:46.360304
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.5453586 ], dtype=float32), 'y': array([0.35207283, 0.6762014 ], dtype=float32), 'z': array([-0.03726694,  0.08198   ], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 54:
+Timestamp: 2023-10-09 17:33:46.479105
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.5453586 ], dtype=float32), 'y': array([0.35182747, 0.67889786], dtype=float32), 'z': array([-0.0395164 ,  0.05537821], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 55:
+Timestamp: 2023-10-09 17:33:46.602024
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35204998], dtype=float32), 'z': array([-0.03748249], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 56:
+Timestamp: 2023-10-09 17:33:46.727083
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35191205], dtype=float32), 'z': array([-0.0387559], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 57:
+Timestamp: 2023-10-09 17:33:46.844913
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6798973], dtype=float32), 'z': array([-0.04133628], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 58:
+Timestamp: 2023-10-09 17:33:46.861411
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 59:
+Timestamp: 2023-10-09 17:33:46.875017
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 60:
+Timestamp: 2023-10-09 17:33:46.889493
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 61:
+Timestamp: 2023-10-09 17:33:47.010490
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3516933], dtype=float32), 'z': array([-0.04069313], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 62:
+Timestamp: 2023-10-09 17:33:47.129321
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35170153], dtype=float32), 'z': array([-0.04062214], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 63:
+Timestamp: 2023-10-09 17:33:47.253798
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3518431], dtype=float32), 'z': array([-0.03937699], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 64:
+Timestamp: 2023-10-09 17:33:47.376386
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35177347], dtype=float32), 'z': array([-0.03999415], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 65:
+Timestamp: 2023-10-09 17:33:47.504277
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35194707], dtype=float32), 'z': array([-0.03843677], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 66:
+Timestamp: 2023-10-09 17:33:47.632062
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3517847], dtype=float32), 'z': array([-0.0398953], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 67:
+Timestamp: 2023-10-09 17:33:47.753490
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35186747], dtype=float32), 'z': array([-0.0391586], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 68:
+Timestamp: 2023-10-09 17:33:47.876953
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35177433], dtype=float32), 'z': array([-0.03998671], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 69:
+Timestamp: 2023-10-09 17:33:47.994430
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35192934], dtype=float32), 'z': array([-0.0385985], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 70:
+Timestamp: 2023-10-09 17:33:48.113126
+Data:
+{'numObj': 2, 'x': array([0.5453586 , 0.34493932], dtype=float32), 'y': array([0.6797334 , 0.25105593], dtype=float32), 'z': array([ 0.04394944, -0.21978799], dtype=float32), 'velocity': array([ 0.       , -0.3651451], dtype=float32)}
+
+Index: 71:
+Timestamp: 2023-10-09 17:33:48.233913
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.28631327], dtype=float32), 'y': array([0.35208488, 0.11652099], dtype=float32), 'z': array([-0.03715322, -0.30788606], dtype=float32), 'velocity': array([ 0.        , -0.60857517], dtype=float32)}
+
+Index: 72:
+Timestamp: 2023-10-09 17:33:48.357499
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.67791885], dtype=float32), 'z': array([0.06629499], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 73:
+Timestamp: 2023-10-09 17:33:48.478940
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.69800746], dtype=float32), 'z': array([-0.07584673], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 74:
+Timestamp: 2023-10-09 17:33:48.604046
+Data:
+{'numObj': 6, 'x': array([-0.44310385,  0.5453586 ,  0.14315663,  0.01363397, -0.04499209,
+       -0.22496043], dtype=float32), 'y': array([0.35219267, 0.6811206 , 0.52625227, 0.43248123, 0.23672704,
+       0.419821  ], dtype=float32), 'z': array([-0.03611686,  0.00661872, -0.73620087, -0.05586024, -0.41503614,
+        0.05883975], dtype=float32), 'velocity': array([ 0.        ,  0.        ,  0.3651451 ,  0.48686013, -0.85200524,
+       -0.85200524], dtype=float32)}
+
+Index: 75:
+Timestamp: 2023-10-09 17:33:48.727948
+Data:
+{'numObj': 3, 'x': array([ 0.51809067, -0.02999472, -0.17451476], dtype=float32), 'y': array([0.68787456, 0.4789548 , 0.13123779], dtype=float32), 'z': array([0.140697  , 0.0046459 , 0.66302913], dtype=float32), 'velocity': array([0.        , 0.3651451 , 0.48686013], dtype=float32)}
+
+Index: 76:
+Timestamp: 2023-10-09 17:33:48.856330
+Data:
+{'numObj': 3, 'x': array([ 0.5453586 ,  0.        , -0.16224419], dtype=float32), 'y': array([0.67815524, 0.5210195 , 0.4261893 ], dtype=float32), 'z': array([ 0.06383203,  0.05135374, -0.5849275 ], dtype=float32), 'velocity': array([0.        , 0.12171503, 0.24343006], dtype=float32)}
+
+Index: 77:
+Timestamp: 2023-10-09 17:33:48.980886
+Data:
+{'numObj': 1, 'x': array([0.03272152], dtype=float32), 'y': array([0.5192132], dtype=float32), 'z': array([0.0586988], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 78:
+Timestamp: 2023-10-09 17:33:49.106637
+Data:
+{'numObj': 2, 'x': array([ 0.06544303, -0.40901893], dtype=float32), 'y': array([0.51019794, 0.3266343 ], dtype=float32), 'z': array([ 0.09753906, -0.01058958], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 79:
+Timestamp: 2023-10-09 17:33:49.226003
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.68873066], dtype=float32), 'z': array([0.13644493], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 80:
+Timestamp: 2023-10-09 17:33:49.351597
+Data:
+{'numObj': 3, 'x': array([ 0.03272152,  0.51809067, -0.7362341 ], dtype=float32), 'y': array([0.49773034, 0.7014623 , 0.24886768], dtype=float32), 'z': array([ 0.15903576, -0.03029426,  0.11289837], dtype=float32), 'velocity': array([ 0.        ,  0.        , -0.24343006], dtype=float32)}
+
+Index: 81:
+Timestamp: 2023-10-09 17:33:49.473044
+Data:
+{'numObj': 1, 'x': array([-0.03544831], dtype=float32), 'y': array([0.54831386], dtype=float32), 'z': array([0.1406431], dtype=float32), 'velocity': array([0.24343006], dtype=float32)}
+
+Index: 82:
+Timestamp: 2023-10-09 17:33:49.594552
+Data:
+{'numObj': 7, 'x': array([ 0.5453586 , -0.01636076, -0.20859967,  0.04635548,  1.4315664 ,
+       -0.1145253 , -1.1779746 ], dtype=float32), 'y': array([0.6459557 , 0.516241  , 0.3922786 , 0.7401156 , 0.33459705,
+       0.5677122 , 4.467804  ], dtype=float32), 'z': array([ 0.2161257 ,  0.08559283, -0.5938892 ,  0.01344806,  0.4128004 ,
+        0.19407588,  0.92362845], dtype=float32), 'velocity': array([0.        , 0.24343006, 0.24343006, 0.24343006, 0.24343006,
+       0.3651451 , 0.3651451 ], dtype=float32)}
+
+Index: 83:
+Timestamp: 2023-10-09 17:33:49.713221
+Data:
+{'numObj': 2, 'x': array([ 0.51809067, -0.17178796], dtype=float32), 'y': array([0.7012109 , 0.56394225], dtype=float32), 'z': array([ 0.03564249, -0.51882553], dtype=float32), 'velocity': array([0.        , 0.24343006], dtype=float32)}
+
+Index: 84:
+Timestamp: 2023-10-09 17:33:49.835800
+Data:
+{'numObj': 1, 'x': array([0.49082276], dtype=float32), 'y': array([0.71895045], dtype=float32), 'z': array([0.0599022], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 85:
+Timestamp: 2023-10-09 17:33:49.960394
+Data:
+{'numObj': 2, 'x': array([ 0.51809067, -0.12270568], dtype=float32), 'y': array([0.69462496, 0.6054492 ], dtype=float32), 'z': array([0.10229032, 0.21599457], dtype=float32), 'velocity': array([ 0.        , -0.12171503], dtype=float32)}
+
+Index: 86:
+Timestamp: 2023-10-09 17:33:50.079406
+Data:
+{'numObj': 2, 'x': array([-0.05726265,  0.51809067], dtype=float32), 'y': array([0.6044173, 0.6817962], dtype=float32), 'z': array([0.06692795, 0.16769339], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 87:
+Timestamp: 2023-10-09 17:33:50.201752
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70207995], dtype=float32), 'z': array([-0.007128], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 88:
+Timestamp: 2023-10-09 17:33:50.327168
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.679653], dtype=float32), 'z': array([0.17617857], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 89:
+Timestamp: 2023-10-09 17:33:50.344880
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 90:
+Timestamp: 2023-10-09 17:33:50.369352
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 91:
+Timestamp: 2023-10-09 17:33:50.386854
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 92:
+Timestamp: 2023-10-09 17:33:50.505717
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.6991773], dtype=float32), 'z': array([-0.06417321], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 93:
+Timestamp: 2023-10-09 17:33:50.628600
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.7018816], dtype=float32), 'z': array([0.0181488], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 94:
+Timestamp: 2023-10-09 17:33:50.750032
+Data:
+{'numObj': 2, 'x': array([0.01772415, 0.5453586 ], dtype=float32), 'y': array([0.5569204 , 0.67796946], dtype=float32), 'z': array([0.10588016, 0.06577573], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 95:
+Timestamp: 2023-10-09 17:33:50.873616
+Data:
+{'numObj': 2, 'x': array([0.03544831, 0.51809067], dtype=float32), 'y': array([0.55800664, 0.7020024 ], dtype=float32), 'z': array([0.095169  , 0.01263892], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 96:
+Timestamp: 2023-10-09 17:33:50.995836
+Data:
+{'numObj': 2, 'x': array([0.0381751 , 0.51809067], dtype=float32), 'y': array([0.6023127, 0.7011692], dtype=float32), 'z': array([ 0.09402532, -0.03645311], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 97:
+Timestamp: 2023-10-09 17:33:51.120911
+Data:
+{'numObj': 1, 'x': array([0.49082276], dtype=float32), 'y': array([0.72018355], dtype=float32), 'z': array([-0.042587], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 98:
+Timestamp: 2023-10-09 17:33:51.244128
+Data:
+{'numObj': 2, 'x': array([0.51809067, 0.0763502 ], dtype=float32), 'y': array([0.67553544, 0.58414125], dtype=float32), 'z': array([0.19136097, 0.16133279], dtype=float32), 'velocity': array([0.        , 0.12171503], dtype=float32)}
+
+Index: 99:
+Timestamp: 2023-10-09 17:33:51.368568
+Data:
+{'numObj': 3, 'x': array([ 0.49082276,  0.17178796, -0.49627632], dtype=float32), 'y': array([0.7133053 , 0.5675138 , 0.35205406], dtype=float32), 'z': array([0.10804443, 0.14661376, 0.05335156], dtype=float32), 'velocity': array([0.        , 0.12171503, 0.12171503], dtype=float32)}
+
+Index: 100:
+Timestamp: 2023-10-09 17:33:51.503153
+Data:
+{'numObj': 2, 'x': array([0.51809067, 0.15270041], dtype=float32), 'y': array([0.69569653, 0.58620626], dtype=float32), 'z': array([0.09472814, 0.07825256], dtype=float32), 'velocity': array([0.        , 0.24343006], dtype=float32)}
+
+Index: 101:
+Timestamp: 2023-10-09 17:33:51.627624
+Data:
+{'numObj': 4, 'x': array([ 0.51809067, -1.244781  ,  0.22496043,  0.30540082], dtype=float32), 'y': array([0.70208687, 3.399613  , 0.6033604 , 0.62420136], dtype=float32), 'z': array([ 0.00641173, -0.07814199,  0.11673937,  0.06625265], dtype=float32), 'velocity': array([0.        , 0.        , 0.24343006, 0.3651451 ], dtype=float32)}
+
+Index: 102:
+Timestamp: 2023-10-09 17:33:51.746721
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3520642], dtype=float32), 'z': array([-0.03734849], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 103:
+Timestamp: 2023-10-09 17:33:51.882388
+Data:
+{'numObj': 2, 'x': array([0.51809067, 0.18405853], dtype=float32), 'y': array([0.6966749, 0.6272884], dtype=float32), 'z': array([0.08724211, 0.03017839], dtype=float32), 'velocity': array([ 0.        , -0.12171503], dtype=float32)}
+
+Index: 104:
+Timestamp: 2023-10-09 17:33:52.009571
+Data:
+{'numObj': 2, 'x': array([0.26586232, 0.19087552], dtype=float32), 'y': array([0.5732404, 0.5761354], dtype=float32), 'z': array([0.1702695 , 0.06865271], dtype=float32), 'velocity': array([-0.60857517, -0.24343006], dtype=float32)}
+
+Index: 105:
+Timestamp: 2023-10-09 17:33:52.131747
+Data:
+{'numObj': 2, 'x': array([0.5153639 , 0.37084386], dtype=float32), 'y': array([0.7370131 , 0.58060366], dtype=float32), 'z': array([-0.17503954,  0.11251949], dtype=float32), 'velocity': array([0.        , 0.24343006], dtype=float32)}
+
+Index: 106:
+Timestamp: 2023-10-09 17:33:52.258715
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35102603], dtype=float32), 'z': array([-0.04609603], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 107:
+Timestamp: 2023-10-09 17:33:52.381130
+Data:
+{'numObj': 4, 'x': array([-0.44310385,  0.3476661 ,  0.20996307, -0.4581012 ], dtype=float32), 'y': array([0.3521393 , 0.5506742 , 0.55925524, 0.39237967], dtype=float32), 'z': array([-0.03663369,  0.06453893, -0.12738821, -0.09622952], dtype=float32), 'velocity': array([ 0.        ,  0.3651451 , -0.12171503, -0.12171503], dtype=float32)}
+
+Index: 108:
+Timestamp: 2023-10-09 17:33:52.509279
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.5153639 ], dtype=float32), 'y': array([0.35213155, 0.750137  ], dtype=float32), 'z': array([-0.03670806,  0.10545897], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 109:
+Timestamp: 2023-10-09 17:33:52.631351
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.5453586 ], dtype=float32), 'y': array([0.35213074, 0.6690527 ], dtype=float32), 'z': array([-0.03671577,  0.127818  ], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 110:
+Timestamp: 2023-10-09 17:33:52.757713
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35210517], dtype=float32), 'z': array([-0.03696026], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 111:
+Timestamp: 2023-10-09 17:33:52.879396
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3520989], dtype=float32), 'z': array([-0.03701989], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 112:
+Timestamp: 2023-10-09 17:33:53.016542
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35242015], dtype=float32), 'z': array([-0.03382521], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 113:
+Timestamp: 2023-10-09 17:33:53.152721
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35256696], dtype=float32), 'z': array([-0.03225931], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 114:
+Timestamp: 2023-10-09 17:33:53.279007
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35189685], dtype=float32), 'z': array([-0.0388937], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 115:
+Timestamp: 2023-10-09 17:33:53.406249
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35201964], dtype=float32), 'z': array([-0.03776633], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 116:
+Timestamp: 2023-10-09 17:33:53.531546
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70207435], dtype=float32), 'z': array([0.00765974], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 117:
+Timestamp: 2023-10-09 17:33:53.751880
+Data:
+{'numObj': 2, 'x': array([ 0.49082276, -1.244781  ], dtype=float32), 'y': array([0.7073458, 3.3966386], dtype=float32), 'z': array([ 0.14191526, -0.16223252], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 118:
+Timestamp: 2023-10-09 17:33:53.876594
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.7006735], dtype=float32), 'z': array([0.0449863], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 119:
+Timestamp: 2023-10-09 17:33:54.000626
+Data:
+{'numObj': 1, 'x': array([0.46355483], dtype=float32), 'y': array([0.73162127], dtype=float32), 'z': array([0.10598245], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 120:
+Timestamp: 2023-10-09 17:33:54.128636
+Data:
+{'numObj': 1, 'x': array([0.5439952], dtype=float32), 'y': array([0.6241455], dtype=float32), 'z': array([0.0407626], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 121:
+Timestamp: 2023-10-09 17:33:54.258291
+Data:
+{'numObj': 1, 'x': array([0.49218616], dtype=float32), 'y': array([0.6594254], dtype=float32), 'z': array([0.10030418], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 122:
+Timestamp: 2023-10-09 17:33:54.380226
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70053256], dtype=float32), 'z': array([-0.04713013], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 123:
+Timestamp: 2023-10-09 17:33:54.506235
+Data:
+{'numObj': 1, 'x': array([0.49218616], dtype=float32), 'y': array([0.6468934], dtype=float32), 'z': array([0.1625783], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 124:
+Timestamp: 2023-10-09 17:33:54.629953
+Data:
+{'numObj': 1, 'x': array([0.49218616], dtype=float32), 'y': array([0.6592009], dtype=float32), 'z': array([0.10176886], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 125:
+Timestamp: 2023-10-09 17:33:54.763517
+Data:
+{'numObj': 1, 'x': array([0.46355483], dtype=float32), 'y': array([0.7392512], dtype=float32), 'z': array([0.00310101], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 126:
+Timestamp: 2023-10-09 17:33:54.890341
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.6226072], dtype=float32), 'z': array([0.17633037], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 127:
+Timestamp: 2023-10-09 17:33:55.019505
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35178128], dtype=float32), 'z': array([-0.03992559], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 128:
+Timestamp: 2023-10-09 17:33:55.143115
+Data:
+{'numObj': 1, 'x': array([0.49218616], dtype=float32), 'y': array([0.6621833], dtype=float32), 'z': array([0.08010045], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 129:
+Timestamp: 2023-10-09 17:33:55.272945
+Data:
+{'numObj': 1, 'x': array([0.49218616], dtype=float32), 'y': array([0.6624403], dtype=float32), 'z': array([0.07794602], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 130:
+Timestamp: 2023-10-09 17:33:55.400847
+Data:
+{'numObj': 1, 'x': array([0.46628162], dtype=float32), 'y': array([0.6786358], dtype=float32), 'z': array([0.0958382], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 131:
+Timestamp: 2023-10-09 17:33:55.422249
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 132:
+Timestamp: 2023-10-09 17:33:55.549417
+Data:
+{'numObj': 1, 'x': array([0.49218616], dtype=float32), 'y': array([0.66007805], dtype=float32), 'z': array([0.09591528], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 133:
+Timestamp: 2023-10-09 17:33:55.674704
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.51809067], dtype=float32), 'y': array([0.3522712 , 0.63234067], dtype=float32), 'z': array([-0.0353427,  0.1373949], dtype=float32), 'velocity': array([0.        , 0.12171503], dtype=float32)}
+
+Index: 134:
+Timestamp: 2023-10-09 17:33:55.803046
+Data:
+{'numObj': 3, 'x': array([-0.44310385,  0.51809067,  0.30131063], dtype=float32), 'y': array([0.35225388, 0.70060563, 0.6772671 ], dtype=float32), 'z': array([-0.03551497,  0.04603107,  0.02493836], dtype=float32), 'velocity': array([ 0.        ,  0.12171503, -0.3651451 ], dtype=float32)}
+
+Index: 135:
+Timestamp: 2023-10-09 17:33:55.931157
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.48673257], dtype=float32), 'y': array([0.35215017, 0.77617043], dtype=float32), 'z': array([-0.03652889, -0.0088242 ], dtype=float32), 'velocity': array([0.        , 0.12171503], dtype=float32)}
+
+Index: 136:
+Timestamp: 2023-10-09 17:33:56.061259
+Data:
+{'numObj': 3, 'x': array([-0.44310385,  0.51809067,  0.9598312 ], dtype=float32), 'y': array([0.35213494, 0.69536585, 1.0137448 ], dtype=float32), 'z': array([-0.03667547,  0.09712598, -0.01382403], dtype=float32), 'velocity': array([ 0.        ,  0.12171503, -0.3651451 ], dtype=float32)}
+
+Index: 137:
+Timestamp: 2023-10-09 17:33:56.182393
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.5453586 ], dtype=float32), 'y': array([0.35212183, 0.6640467 ], dtype=float32), 'z': array([-0.03680136,  0.15169367], dtype=float32), 'velocity': array([0.        , 0.12171503], dtype=float32)}
+
+Index: 138:
+Timestamp: 2023-10-09 17:33:56.307975
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.3520632], dtype=float32), 'z': array([-0.03735781], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 139:
+Timestamp: 2023-10-09 17:33:56.439101
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.6995161], dtype=float32), 'z': array([0.06036799], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 140:
+Timestamp: 2023-10-09 17:33:56.561800
+Data:
+{'numObj': 1, 'x': array([0.5153639], dtype=float32), 'y': array([0.7519895], dtype=float32), 'z': array([-0.0913174], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 141:
+Timestamp: 2023-10-09 17:33:56.688555
+Data:
+{'numObj': 1, 'x': array([0.5099103], dtype=float32), 'y': array([0.806802], dtype=float32), 'z': array([-0.10167592], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 142:
+Timestamp: 2023-10-09 17:33:56.814447
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35216784], dtype=float32), 'z': array([-0.0363581], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 143:
+Timestamp: 2023-10-09 17:33:56.944550
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.49082276], dtype=float32), 'y': array([0.3518688 , 0.71977764], dtype=float32), 'z': array([-0.03914656,  0.04897127], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 144:
+Timestamp: 2023-10-09 17:33:57.070127
+Data:
+{'numObj': 1, 'x': array([0.57262653], dtype=float32), 'y': array([0.7151942], dtype=float32), 'z': array([0.00481092], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 145:
+Timestamp: 2023-10-09 17:33:57.194072
+Data:
+{'numObj': 1, 'x': array([0.57262653], dtype=float32), 'y': array([0.71280354], dtype=float32), 'z': array([0.05862594], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 146:
+Timestamp: 2023-10-09 17:33:57.324711
+Data:
+{'numObj': 1, 'x': array([0.57262653], dtype=float32), 'y': array([0.7146358], dtype=float32), 'z': array([0.02866278], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 147:
+Timestamp: 2023-10-09 17:33:57.454337
+Data:
+{'numObj': 1, 'x': array([0.57262653], dtype=float32), 'y': array([0.7128733], dtype=float32), 'z': array([0.05777184], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 148:
+Timestamp: 2023-10-09 17:33:57.576824
+Data:
+{'numObj': 1, 'x': array([0.57262653], dtype=float32), 'y': array([0.7141569], dtype=float32), 'z': array([0.03880407], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 149:
+Timestamp: 2023-10-09 17:33:57.706706
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35208797], dtype=float32), 'z': array([-0.03712388], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 150:
+Timestamp: 2023-10-09 17:33:57.830291
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.23314081], dtype=float32), 'y': array([0.35218424, 0.16282114], dtype=float32), 'z': array([-0.03619907, -0.27076763], dtype=float32), 'velocity': array([ 0.       , -0.7302902], dtype=float32)}
+
+Index: 151:
+Timestamp: 2023-10-09 17:33:57.968104
+Data:
+{'numObj': 3, 'x': array([-0.44310385,  0.51809067, -0.41719934], dtype=float32), 'y': array([0.3520825 , 0.7016915 , 0.50965357], dtype=float32), 'z': array([-0.03717553,  0.02441615, -0.34102592], dtype=float32), 'velocity': array([ 0.       ,  0.       , -0.7302902], dtype=float32)}
+
+Index: 152:
+Timestamp: 2023-10-09 17:33:58.097183
+Data:
+{'numObj': 2, 'x': array([0.5153639 , 0.08725738], dtype=float32), 'y': array([0.7575114 , 0.33760104], dtype=float32), 'z': array([-0.00189475,  0.01527354], dtype=float32), 'velocity': array([0.        , 0.60857517], dtype=float32)}
+
+Index: 153:
+Timestamp: 2023-10-09 17:33:58.229984
+Data:
+{'numObj': 6, 'x': array([-0.44310385,  0.0409019 ,  0.49491295,  0.01363397,  0.12952267,
+       -0.18133174], dtype=float32), 'y': array([0.35212967, 0.42782554, 0.25203663, 0.43516827, 0.15508541,
+       0.8080606 ], dtype=float32), 'z': array([-0.03672605, -0.07509056,  1.3283107 ,  0.02808831,  0.8039418 ,
+       -0.03615057], dtype=float32), 'velocity': array([ 0.        ,  0.3651451 ,  0.3651451 ,  0.60857517, -0.85200524,
+       -0.85200524], dtype=float32)}
+
+Index: 154:
+Timestamp: 2023-10-09 17:33:58.356083
+Data:
+{'numObj': 3, 'x': array([-0.44310385,  0.04499209, -0.1199789 ], dtype=float32), 'y': array([0.35209718, 0.47675112, 0.29919046], dtype=float32), 'z': array([-0.03703625, -0.03167111,  0.35554057], dtype=float32), 'velocity': array([0.       , 0.3651451, 0.3651451], dtype=float32)}
+
+Index: 155:
+Timestamp: 2023-10-09 17:33:58.477701
+Data:
+{'numObj': 2, 'x': array([ 0.5153639 , -0.03272152], dtype=float32), 'y': array([0.7425329, 0.5204143], dtype=float32), 'z': array([-0.14990653,  0.04687069], dtype=float32), 'velocity': array([0.        , 0.24343006], dtype=float32)}
+
+Index: 156:
+Timestamp: 2023-10-09 17:33:58.605988
+Data:
+{'numObj': 1, 'x': array([0.5439952], dtype=float32), 'y': array([0.733451], dtype=float32), 'z': array([0.07447046], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 157:
+Timestamp: 2023-10-09 17:33:58.733530
+Data:
+{'numObj': 2, 'x': array([0.        , 0.51809067], dtype=float32), 'y': array([0.5189645 , 0.70073855], dtype=float32), 'z': array([0.06909685, 0.04396088], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 158:
+Timestamp: 2023-10-09 17:33:58.865683
+Data:
+{'numObj': 2, 'x': array([0.51809067, 0.        ], dtype=float32), 'y': array([0.6995343 , 0.51590765], dtype=float32), 'z': array([0.06015704, 0.0890947 ], dtype=float32), 'velocity': array([ 0.        , -0.12171503], dtype=float32)}
+
+Index: 159:
+Timestamp: 2023-10-09 17:33:58.999770
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.51809067], dtype=float32), 'y': array([0.35179335, 0.70098555], dtype=float32), 'z': array([-0.03981904,  0.03982905], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 160:
+Timestamp: 2023-10-09 17:33:59.130910
+Data:
+{'numObj': 2, 'x': array([ 0.51809067, -0.03272152], dtype=float32), 'y': array([0.70048046, 0.522168  ], dtype=float32), 'z': array([-0.047898  ,  0.01919519], dtype=float32), 'velocity': array([ 0.        , -0.12171503], dtype=float32)}
+
+Index: 161:
+Timestamp: 2023-10-09 17:33:59.270117
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70182747], dtype=float32), 'z': array([0.02013286], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 162:
+Timestamp: 2023-10-09 17:33:59.434419
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70061374], dtype=float32), 'z': array([0.04590729], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 163:
+Timestamp: 2023-10-09 17:33:59.458961
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 164:
+Timestamp: 2023-10-09 17:33:59.592632
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6748237], dtype=float32), 'z': array([0.09263882], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 165:
+Timestamp: 2023-10-09 17:33:59.936607
+Data:
+{'numObj': 1, 'x': array([0.5439952], dtype=float32), 'y': array([0.73701394], dtype=float32), 'z': array([-0.01751395], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 166:
+Timestamp: 2023-10-09 17:34:00.332964
+Data:
+{'numObj': 1, 'x': array([0.5439952], dtype=float32), 'y': array([0.73144346], dtype=float32), 'z': array([0.09212323], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 167:
+Timestamp: 2023-10-09 17:34:00.569684
+Data:
+{'numObj': 2, 'x': array([0.5439952, 0.       ], dtype=float32), 'y': array([0.73722154, 0.52348846], dtype=float32), 'z': array([-0.00081129,  0.00764043], dtype=float32), 'velocity': array([ 0.        , -0.12171503], dtype=float32)}
+
+Index: 168:
+Timestamp: 2023-10-09 17:34:00.707349
+Data:
+{'numObj': 3, 'x': array([ 0.51809067, -0.09543776, -0.01636076], dtype=float32), 'y': array([0.69738084, 1.51167   , 0.51980877], dtype=float32), 'z': array([0.08140665, 0.19361593, 0.06024731], dtype=float32), 'velocity': array([ 0.        , -0.24343006, -0.12171503], dtype=float32)}
+
+Index: 169:
+Timestamp: 2023-10-09 17:34:00.839230
+Data:
+{'numObj': 2, 'x': array([ 0.51809067, -1.244781  ], dtype=float32), 'y': array([0.6960283, 3.400152 ], dtype=float32), 'z': array([ 0.09225915, -0.04939754], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 170:
+Timestamp: 2023-10-09 17:34:00.974413
+Data:
+{'numObj': 3, 'x': array([ 0.51809067,  0.04499209, -0.08998417], dtype=float32), 'y': array([0.69636923, 0.47749344, 0.38958326], dtype=float32), 'z': array([ 0.08964952,  0.01716666, -0.26541796], dtype=float32), 'velocity': array([ 0.        , -0.12171503, -0.12171503], dtype=float32)}
+
+Index: 171:
+Timestamp: 2023-10-09 17:34:01.100035
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.6924939], dtype=float32), 'z': array([0.11584149], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 172:
+Timestamp: 2023-10-09 17:34:01.228992
+Data:
+{'numObj': 2, 'x': array([0.02999472, 0.51809067], dtype=float32), 'y': array([0.47589475, 0.6959735 ], dtype=float32), 'z': array([0.05425373, 0.09267107], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 173:
+Timestamp: 2023-10-09 17:34:01.369240
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.69420576], dtype=float32), 'z': array([0.10509737], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 174:
+Timestamp: 2023-10-09 17:34:01.503376
+Data:
+{'numObj': 2, 'x': array([0.49082276, 0.02999472], dtype=float32), 'y': array([0.7208552 , 0.47655275], dtype=float32), 'z': array([0.02908264, 0.04813274], dtype=float32), 'velocity': array([ 0.        , -0.12171503], dtype=float32)}
+
+Index: 175:
+Timestamp: 2023-10-09 17:34:01.629510
+Data:
+{'numObj': 2, 'x': array([0.51809067, 0.0409019 ], dtype=float32), 'y': array([0.69951373, 0.43145925], dtype=float32), 'z': array([0.06039566, 0.05016179], dtype=float32), 'velocity': array([ 0.        , -0.24343006], dtype=float32)}
+
+Index: 176:
+Timestamp: 2023-10-09 17:34:01.759168
+Data:
+{'numObj': 2, 'x': array([0.5439952 , 0.06816982], dtype=float32), 'y': array([0.73246324, 0.43011206], dtype=float32), 'z': array([0.08362964, 0.02650931], dtype=float32), 'velocity': array([ 0.        , -0.24343006], dtype=float32)}
+
+Index: 177:
+Timestamp: 2023-10-09 17:34:01.891971
+Data:
+{'numObj': 2, 'x': array([0.51809067, 0.09816455], dtype=float32), 'y': array([0.69962376, 0.38017273], dtype=float32), 'z': array([-0.0591077 ,  0.00358923], dtype=float32), 'velocity': array([ 0.        , -0.24343006], dtype=float32)}
+
+Index: 178:
+Timestamp: 2023-10-09 17:34:02.021443
+Data:
+{'numObj': 3, 'x': array([ 0.5153639 ,  0.20859967, -0.46355483], dtype=float32), 'y': array([0.7435139 , 0.31155476, 0.49012864], dtype=float32), 'z': array([-0.1449627 , -0.11662021, -0.30820695], dtype=float32), 'velocity': array([0.        , 0.3651451 , 0.60857517], dtype=float32)}
+
+Index: 179:
+Timestamp: 2023-10-09 17:34:02.146807
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.68770623], dtype=float32), 'z': array([0.14151771], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 180:
+Timestamp: 2023-10-09 17:34:02.275421
+Data:
+{'numObj': 3, 'x': array([-0.44310385,  0.51809067,  0.34493932], dtype=float32), 'y': array([0.35206172, 0.67262673, 0.16533357], dtype=float32), 'z': array([-0.03737174,  0.2013463 , -0.28982866], dtype=float32), 'velocity': array([0.       , 0.       , 0.3651451], dtype=float32)}
+
+Index: 181:
+Timestamp: 2023-10-09 17:34:02.407413
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.49082276], dtype=float32), 'y': array([0.35189077, 0.7162731 ], dtype=float32), 'z': array([-0.03894873,  0.08620192], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 182:
+Timestamp: 2023-10-09 17:34:02.541616
+Data:
+{'numObj': 1, 'x': array([0.49082276], dtype=float32), 'y': array([0.7149203], dtype=float32), 'z': array([0.09678314], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 183:
+Timestamp: 2023-10-09 17:34:02.669854
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.70130986], dtype=float32), 'z': array([0.0336393], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 184:
+Timestamp: 2023-10-09 17:34:02.693119
+Data:
+{'numObj': 0, 'x': array([], dtype=float32), 'y': array([], dtype=float32), 'z': array([], dtype=float32), 'velocity': array([], dtype=float32)}
+
+Index: 185:
+Timestamp: 2023-10-09 17:34:02.954577
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6753914], dtype=float32), 'z': array([0.08840546], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 186:
+Timestamp: 2023-10-09 17:34:03.088570
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6765966], dtype=float32), 'z': array([0.07865182], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 187:
+Timestamp: 2023-10-09 17:34:03.252846
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.69228256], dtype=float32), 'z': array([0.11709803], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 188:
+Timestamp: 2023-10-09 17:34:03.378684
+Data:
+{'numObj': 1, 'x': array([0.5453586], dtype=float32), 'y': array([0.6779284], dtype=float32), 'z': array([0.06619742], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 189:
+Timestamp: 2023-10-09 17:34:03.510455
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.51809067], dtype=float32), 'y': array([0.35194185, 0.70061404], dtype=float32), 'z': array([-0.03848437, -0.04590292], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 190:
+Timestamp: 2023-10-09 17:34:03.766623
+Data:
+{'numObj': 2, 'x': array([-0.44310385,  0.49082276], dtype=float32), 'y': array([0.3518531, 0.7193599], dtype=float32), 'z': array([-0.03928747, -0.05476668], dtype=float32), 'velocity': array([0., 0.], dtype=float32)}
+
+Index: 191:
+Timestamp: 2023-10-09 17:34:04.200506
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.7021051], dtype=float32), 'z': array([-0.00393691], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 192:
+Timestamp: 2023-10-09 17:34:04.410599
+Data:
+{'numObj': 1, 'x': array([-0.44310385], dtype=float32), 'y': array([0.35193267], dtype=float32), 'z': array([-0.03856821], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 193:
+Timestamp: 2023-10-09 17:34:04.543971
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.69903064], dtype=float32), 'z': array([0.06575181], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 194:
+Timestamp: 2023-10-09 17:34:04.679828
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.7018381], dtype=float32), 'z': array([-0.01975777], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 195:
+Timestamp: 2023-10-09 17:34:04.854028
+Data:
+{'numObj': 1, 'x': array([0.59989446], dtype=float32), 'y': array([0.61713004], dtype=float32), 'z': array([0.14374352], dtype=float32), 'velocity': array([0.], dtype=float32)}
+
+Index: 196:
+Timestamp: 2023-10-09 17:34:05.033466
+Data:
+{'numObj': 1, 'x': array([0.51809067], dtype=float32), 'y': array([0.6763707], dtype=float32), 'z': array([0.18838727], dtype=float32), 'velocity': array([0.], dtype=float32)}
+

@@ -1,0 +1,39 @@
+Local Time: 2023-10-09 22:09:23 [INFO] NTP Time: [2023-10-09 23:09:23.601570]: Loaded configuration: {'participant': {'id': 'P001', 'age': '25', 'gender': 'M', 'ethnicity': 'Caucasian', 'height': '165', 'weight': '65'}, 'experiment': {'date': '2022-01-01', 'time': '14:00:00', 'condition': 'HW101M', 'group': 'A', 'illumination_level': 'low'}, 'task_info': {'task_name': 'Task1', 'trial_number': '5'}, 'notes': {'comments': 'Participant seemed tired during the session.'}, 'label_info': {'activity': 'sit'}}
+Local Time: 2023-10-09 22:09:23 [INFO] NTP Time: [2023-10-09 23:09:23.601923]: Loaded IRA configuration: {'port': '/dev/ttyUSB0', 'baud_rate': '921600', 'Data storage location': 'IRA/data', 'IRA_Datatype': 'float'}
+Local Time: 2023-10-09 22:09:23 [INFO] NTP Time: [2023-10-09 23:09:23.602117]: Reading data from /dev/ttyUSB0 at 921600 baud
+Local Time: 2023-10-09 22:09:23 [INFO] NTP Time: [2023-10-09 23:09:23.754575]: Using NTP time as the start timmer.
+Local Time: 2023-10-09 22:09:23 [ERROR] NTP Time: [2023-10-09 23:09:23.754712]: Error
+Local Time: 2023-10-09 22:09:23 [INFO] NTP Time: [2023-10-09 23:09:23.892516]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.031433]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.170511]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.353847]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.474652]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.616842]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.780832]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:24 [INFO] NTP Time: [2023-10-09 23:09:24.921181]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.059016]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.223488]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.364706]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.501291]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.667099]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.846846]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:25 [INFO] NTP Time: [2023-10-09 23:09:25.945501]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:26 [INFO] NTP Time: [2023-10-09 23:09:26.098637]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:26 [INFO] NTP Time: [2023-10-09 23:09:26.247658]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:26 [INFO] NTP Time: [2023-10-09 23:09:26.389583]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:26 [INFO] NTP Time: [2023-10-09 23:09:26.527134]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:26 [INFO] NTP Time: [2023-10-09 23:09:26.729325]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:26 [INFO] NTP Time: [2023-10-09 23:09:26.831582]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:27 [INFO] NTP Time: [2023-10-09 23:09:27.001520]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:27 [INFO] NTP Time: [2023-10-09 23:09:27.135971]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:27 [INFO] NTP Time: [2023-10-09 23:09:27.273758]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:27 [INFO] NTP Time: [2023-10-09 23:09:27.412555]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:27 [INFO] NTP Time: [2023-10-09 23:09:27.552135]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:27 [INFO] NTP Time: [2023-10-09 23:09:27.716906]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:27 [INFO] NTP Time: [2023-10-09 23:09:27.858425]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:28 [INFO] NTP Time: [2023-10-09 23:09:27.995220]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:28 [INFO] NTP Time: [2023-10-09 23:09:28.164615]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:28 [INFO] NTP Time: [2023-10-09 23:09:28.301643]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:28 [INFO] NTP Time: [2023-10-09 23:09:28.438359]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:28 [INFO] NTP Time: [2023-10-09 23:09:28.603384]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 22:09:28 [INFO] NTP Time: [2023-10-09 23:09:28.617217]: End recording by a terminate action.

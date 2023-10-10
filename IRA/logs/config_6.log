@@ -1,0 +1,12 @@
+Local Time: 2023-10-09 20:13:49 [INFO] NTP Time: [2023-10-09 21:13:49.053514]: Loaded configuration: {'participant': {'id': 'P001', 'age': '25', 'gender': 'M', 'ethnicity': 'Caucasian', 'height': '165', 'weight': '65'}, 'experiment': {'date': '2022-01-01', 'time': '14:00:00', 'condition': 'HW101M', 'group': 'A', 'illumination_level': 'low'}, 'task_info': {'task_name': 'Task1', 'trial_number': '5'}, 'notes': {'comments': 'Participant seemed tired during the session.'}, 'label_info': {'activity': 'sit'}}
+Local Time: 2023-10-09 20:13:49 [INFO] NTP Time: [2023-10-09 21:13:49.053936]: Loaded IRA configuration: {'port': '/dev/ttyUSB0', 'baud_rate': '921600', 'Data storage location': 'IRA/data', 'IRA_Datatype': 'float'}
+Local Time: 2023-10-09 20:13:49 [INFO] NTP Time: [2023-10-09 21:13:49.054193]: Reading data from /dev/ttyUSB0 at 921600 baud
+Local Time: 2023-10-09 20:13:49 [ERROR] NTP Time: [2023-10-09 21:13:49.125776]: Error
+Local Time: 2023-10-09 20:13:49 [INFO] NTP Time: [2023-10-09 21:13:49.268454]: Using NTP time as the start timmer.
+Local Time: 2023-10-09 20:13:49 [ERROR] NTP Time: [2023-10-09 21:13:49.268582]: Error
+Local Time: 2023-10-09 20:13:49 [INFO] NTP Time: [2023-10-09 21:13:49.432194]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 20:13:49 [INFO] NTP Time: [2023-10-09 21:13:49.570797]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 20:13:49 [INFO] NTP Time: [2023-10-09 21:13:49.709031]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 20:13:49 [INFO] NTP Time: [2023-10-09 21:13:49.874032]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 20:13:50 [INFO] NTP Time: [2023-10-09 21:13:50.013225]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 20:13:50 [INFO] NTP Time: [2023-10-09 21:13:50.152762]: Using the local timmer to pretend to be NTP time. Data recorded

@@ -1,0 +1,145 @@
+Index: 0:
+Timestamp: 2023-10-09 19:08:11.030187
+Data:
+-118
+
+Index: 1:
+Timestamp: 2023-10-09 19:08:12.032477
+Data:
+-43
+
+Index: 2:
+Timestamp: 2023-10-09 19:08:13.033788
+Data:
+-80
+
+Index: 3:
+Timestamp: 2023-10-09 19:08:14.035461
+Data:
+36
+
+Index: 4:
+Timestamp: 2023-10-09 19:08:15.037594
+Data:
+-286
+
+Index: 5:
+Timestamp: 2023-10-09 19:08:16.039315
+Data:
+-33
+
+Index: 6:
+Timestamp: 2023-10-09 19:08:17.041656
+Data:
+-72
+
+Index: 7:
+Timestamp: 2023-10-09 19:08:18.044979
+Data:
+-89
+
+Index: 8:
+Timestamp: 2023-10-09 19:08:19.048056
+Data:
+-38
+
+Index: 9:
+Timestamp: 2023-10-09 19:08:20.051270
+Data:
+-12
+
+Index: 10:
+Timestamp: 2023-10-09 19:08:21.054373
+Data:
+46
+
+Index: 11:
+Timestamp: 2023-10-09 19:08:22.057786
+Data:
+-118
+
+Index: 12:
+Timestamp: 2023-10-09 19:08:23.062606
+Data:
+-92
+
+Index: 13:
+Timestamp: 2023-10-09 19:08:24.066260
+Data:
+-60
+
+Index: 14:
+Timestamp: 2023-10-09 19:08:25.070314
+Data:
+-82
+
+Index: 15:
+Timestamp: 2023-10-09 19:08:26.074675
+Data:
+-121
+
+Index: 16:
+Timestamp: 2023-10-09 19:08:27.078931
+Data:
+-24
+
+Index: 17:
+Timestamp: 2023-10-09 19:08:28.083093
+Data:
+-97
+
+Index: 18:
+Timestamp: 2023-10-09 19:08:29.087381
+Data:
+-60
+
+Index: 19:
+Timestamp: 2023-10-09 19:08:30.092727
+Data:
+-70
+
+Index: 20:
+Timestamp: 2023-10-09 19:08:31.098557
+Data:
+-92
+
+Index: 21:
+Timestamp: 2023-10-09 19:08:32.103342
+Data:
+-31
+
+Index: 22:
+Timestamp: 2023-10-09 19:08:33.110057
+Data:
+-19
+
+Index: 23:
+Timestamp: 2023-10-09 19:08:34.115544
+Data:
+0
+
+Index: 24:
+Timestamp: 2023-10-09 19:08:35.121008
+Data:
+-7
+
+Index: 25:
+Timestamp: 2023-10-09 19:08:36.125954
+Data:
+-53
+
+Index: 26:
+Timestamp: 2023-10-09 19:08:37.132986
+Data:
+-133
+
+Index: 27:
+Timestamp: 2023-10-09 19:08:38.139172
+Data:
+-492
+
+Index: 28:
+Timestamp: 2023-10-09 19:08:39.149076
+Data:
+-16
+

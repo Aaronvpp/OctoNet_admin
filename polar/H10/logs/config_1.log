@@ -1,0 +1,217 @@
+Local Time: 2023-10-09 18:09:39 [INFO] NTP Time: [2023-10-09 19:09:39.900481]: Loaded configuration: {'participant': {'id': 'P001', 'age': '25', 'gender': 'M', 'ethnicity': 'Caucasian', 'height': '165', 'weight': '65'}, 'experiment': {'date': '2022-01-01', 'time': '14:00:00', 'condition': 'HW101M', 'group': 'A', 'illumination_level': 'low'}, 'task_info': {'task_name': 'Task1', 'trial_number': '5'}, 'notes': {'comments': 'Participant seemed tired during the session.'}, 'label_info': {'activity': 'sit'}}
+Local Time: 2023-10-09 18:09:39 [INFO] NTP Time: [2023-10-09 19:09:39.900568]: Loaded Polar configuration: {'record_len(in_second)': '60', 'Data storage location': 'polar/H10/data', 'polar_Datatype': 'float'}
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.900614]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.900660]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.900723]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.900787]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.900850]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.900913]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.900967]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.901015]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.901084]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:39 [ERROR] NTP Time: [2023-10-09 19:09:39.901147]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:09:45 [INFO] NTP Time: [2023-10-09 19:09:45.002285]: Using NTP time as the start timmer.
+Local Time: 2023-10-09 18:09:45 [INFO] NTP Time: [2023-10-09 19:09:45.002432]: ecg_data
+Local Time: 2023-10-09 18:09:45 [INFO] NTP Time: [2023-10-09 19:09:45.002655]: get_hr_data
+Local Time: 2023-10-09 18:09:46 [INFO] NTP Time: [2023-10-09 19:09:46.003909]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:46 [INFO] NTP Time: [2023-10-09 19:09:46.004016]: ecg_data
+Local Time: 2023-10-09 18:09:46 [INFO] NTP Time: [2023-10-09 19:09:46.004316]: get_hr_data
+Local Time: 2023-10-09 18:09:47 [INFO] NTP Time: [2023-10-09 19:09:47.005366]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:47 [INFO] NTP Time: [2023-10-09 19:09:47.005471]: ecg_data
+Local Time: 2023-10-09 18:09:47 [INFO] NTP Time: [2023-10-09 19:09:47.005774]: get_hr_data
+Local Time: 2023-10-09 18:09:48 [INFO] NTP Time: [2023-10-09 19:09:48.007788]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:48 [INFO] NTP Time: [2023-10-09 19:09:48.007921]: ecg_data
+Local Time: 2023-10-09 18:09:48 [INFO] NTP Time: [2023-10-09 19:09:48.008377]: get_hr_data
+Local Time: 2023-10-09 18:09:49 [INFO] NTP Time: [2023-10-09 19:09:49.009940]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:49 [INFO] NTP Time: [2023-10-09 19:09:49.010083]: ecg_data
+Local Time: 2023-10-09 18:09:49 [INFO] NTP Time: [2023-10-09 19:09:49.010561]: get_hr_data
+Local Time: 2023-10-09 18:09:50 [INFO] NTP Time: [2023-10-09 19:09:50.011954]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:50 [INFO] NTP Time: [2023-10-09 19:09:50.012064]: ecg_data
+Local Time: 2023-10-09 18:09:50 [INFO] NTP Time: [2023-10-09 19:09:50.012431]: get_hr_data
+Local Time: 2023-10-09 18:09:51 [INFO] NTP Time: [2023-10-09 19:09:51.013986]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:51 [INFO] NTP Time: [2023-10-09 19:09:51.014108]: ecg_data
+Local Time: 2023-10-09 18:09:51 [INFO] NTP Time: [2023-10-09 19:09:51.014406]: get_hr_data
+Local Time: 2023-10-09 18:09:52 [INFO] NTP Time: [2023-10-09 19:09:52.015688]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:52 [INFO] NTP Time: [2023-10-09 19:09:52.015851]: ecg_data
+Local Time: 2023-10-09 18:09:52 [INFO] NTP Time: [2023-10-09 19:09:52.016436]: get_hr_data
+Local Time: 2023-10-09 18:09:53 [INFO] NTP Time: [2023-10-09 19:09:53.018271]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:53 [INFO] NTP Time: [2023-10-09 19:09:53.018406]: ecg_data
+Local Time: 2023-10-09 18:09:53 [INFO] NTP Time: [2023-10-09 19:09:53.018867]: get_hr_data
+Local Time: 2023-10-09 18:09:54 [INFO] NTP Time: [2023-10-09 19:09:54.019988]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:54 [INFO] NTP Time: [2023-10-09 19:09:54.020106]: ecg_data
+Local Time: 2023-10-09 18:09:54 [INFO] NTP Time: [2023-10-09 19:09:54.020556]: get_hr_data
+Local Time: 2023-10-09 18:09:55 [INFO] NTP Time: [2023-10-09 19:09:55.022319]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:55 [INFO] NTP Time: [2023-10-09 19:09:55.022431]: ecg_data
+Local Time: 2023-10-09 18:09:55 [INFO] NTP Time: [2023-10-09 19:09:55.022820]: get_hr_data
+Local Time: 2023-10-09 18:09:56 [INFO] NTP Time: [2023-10-09 19:09:56.024568]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:56 [INFO] NTP Time: [2023-10-09 19:09:56.024687]: ecg_data
+Local Time: 2023-10-09 18:09:56 [INFO] NTP Time: [2023-10-09 19:09:56.025110]: get_hr_data
+Local Time: 2023-10-09 18:09:57 [INFO] NTP Time: [2023-10-09 19:09:57.025961]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:57 [INFO] NTP Time: [2023-10-09 19:09:57.026071]: ecg_data
+Local Time: 2023-10-09 18:09:57 [INFO] NTP Time: [2023-10-09 19:09:57.026410]: get_hr_data
+Local Time: 2023-10-09 18:09:58 [INFO] NTP Time: [2023-10-09 19:09:58.028298]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:58 [INFO] NTP Time: [2023-10-09 19:09:58.028422]: ecg_data
+Local Time: 2023-10-09 18:09:58 [INFO] NTP Time: [2023-10-09 19:09:58.028892]: get_hr_data
+Local Time: 2023-10-09 18:09:59 [INFO] NTP Time: [2023-10-09 19:09:59.031678]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:09:59 [INFO] NTP Time: [2023-10-09 19:09:59.031795]: ecg_data
+Local Time: 2023-10-09 18:09:59 [INFO] NTP Time: [2023-10-09 19:09:59.032161]: get_hr_data
+Local Time: 2023-10-09 18:10:00 [INFO] NTP Time: [2023-10-09 19:10:00.033645]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:00 [INFO] NTP Time: [2023-10-09 19:10:00.033770]: ecg_data
+Local Time: 2023-10-09 18:10:00 [INFO] NTP Time: [2023-10-09 19:10:00.034226]: get_hr_data
+Local Time: 2023-10-09 18:10:01 [INFO] NTP Time: [2023-10-09 19:10:01.036131]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:01 [INFO] NTP Time: [2023-10-09 19:10:01.036249]: ecg_data
+Local Time: 2023-10-09 18:10:01 [INFO] NTP Time: [2023-10-09 19:10:01.036636]: get_hr_data
+Local Time: 2023-10-09 18:10:02 [INFO] NTP Time: [2023-10-09 19:10:02.038280]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:02 [INFO] NTP Time: [2023-10-09 19:10:02.038403]: ecg_data
+Local Time: 2023-10-09 18:10:02 [INFO] NTP Time: [2023-10-09 19:10:02.038845]: get_hr_data
+Local Time: 2023-10-09 18:10:03 [INFO] NTP Time: [2023-10-09 19:10:03.040611]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:03 [INFO] NTP Time: [2023-10-09 19:10:03.040746]: ecg_data
+Local Time: 2023-10-09 18:10:03 [INFO] NTP Time: [2023-10-09 19:10:03.041178]: get_hr_data
+Local Time: 2023-10-09 18:10:04 [INFO] NTP Time: [2023-10-09 19:10:04.043232]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:04 [INFO] NTP Time: [2023-10-09 19:10:04.043347]: ecg_data
+Local Time: 2023-10-09 18:10:04 [INFO] NTP Time: [2023-10-09 19:10:04.043810]: get_hr_data
+Local Time: 2023-10-09 18:10:05 [INFO] NTP Time: [2023-10-09 19:10:05.045135]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:05 [INFO] NTP Time: [2023-10-09 19:10:05.045253]: ecg_data
+Local Time: 2023-10-09 18:10:05 [INFO] NTP Time: [2023-10-09 19:10:05.045610]: get_hr_data
+Local Time: 2023-10-09 18:10:06 [INFO] NTP Time: [2023-10-09 19:10:06.047567]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:06 [INFO] NTP Time: [2023-10-09 19:10:06.047696]: ecg_data
+Local Time: 2023-10-09 18:10:06 [INFO] NTP Time: [2023-10-09 19:10:06.048476]: get_hr_data
+Local Time: 2023-10-09 18:10:07 [INFO] NTP Time: [2023-10-09 19:10:07.049508]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:07 [INFO] NTP Time: [2023-10-09 19:10:07.049632]: ecg_data
+Local Time: 2023-10-09 18:10:07 [INFO] NTP Time: [2023-10-09 19:10:07.050062]: get_hr_data
+Local Time: 2023-10-09 18:10:08 [INFO] NTP Time: [2023-10-09 19:10:08.052040]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:08 [INFO] NTP Time: [2023-10-09 19:10:08.052177]: ecg_data
+Local Time: 2023-10-09 18:10:08 [INFO] NTP Time: [2023-10-09 19:10:08.052714]: get_hr_data
+Local Time: 2023-10-09 18:10:09 [INFO] NTP Time: [2023-10-09 19:10:09.053819]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:09 [INFO] NTP Time: [2023-10-09 19:10:09.053934]: ecg_data
+Local Time: 2023-10-09 18:10:09 [INFO] NTP Time: [2023-10-09 19:10:09.054327]: get_hr_data
+Local Time: 2023-10-09 18:10:10 [INFO] NTP Time: [2023-10-09 19:10:10.055484]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:10 [INFO] NTP Time: [2023-10-09 19:10:10.055607]: ecg_data
+Local Time: 2023-10-09 18:10:10 [INFO] NTP Time: [2023-10-09 19:10:10.056087]: get_hr_data
+Local Time: 2023-10-09 18:10:11 [INFO] NTP Time: [2023-10-09 19:10:11.057635]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:11 [INFO] NTP Time: [2023-10-09 19:10:11.057755]: ecg_data
+Local Time: 2023-10-09 18:10:11 [INFO] NTP Time: [2023-10-09 19:10:11.058191]: get_hr_data
+Local Time: 2023-10-09 18:10:12 [INFO] NTP Time: [2023-10-09 19:10:12.060138]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:12 [INFO] NTP Time: [2023-10-09 19:10:12.060253]: ecg_data
+Local Time: 2023-10-09 18:10:12 [INFO] NTP Time: [2023-10-09 19:10:12.060679]: get_hr_data
+Local Time: 2023-10-09 18:10:13 [INFO] NTP Time: [2023-10-09 19:10:13.063153]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:13 [INFO] NTP Time: [2023-10-09 19:10:13.063277]: ecg_data
+Local Time: 2023-10-09 18:10:13 [INFO] NTP Time: [2023-10-09 19:10:13.064137]: get_hr_data
+Local Time: 2023-10-09 18:10:14 [INFO] NTP Time: [2023-10-09 19:10:14.065445]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:14 [INFO] NTP Time: [2023-10-09 19:10:14.065524]: ecg_data
+Local Time: 2023-10-09 18:10:14 [INFO] NTP Time: [2023-10-09 19:10:14.065757]: get_hr_data
+Local Time: 2023-10-09 18:10:15 [INFO] NTP Time: [2023-10-09 19:10:15.067784]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:15 [INFO] NTP Time: [2023-10-09 19:10:15.067888]: ecg_data
+Local Time: 2023-10-09 18:10:15 [INFO] NTP Time: [2023-10-09 19:10:15.068256]: get_hr_data
+Local Time: 2023-10-09 18:10:16 [INFO] NTP Time: [2023-10-09 19:10:16.070955]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:16 [INFO] NTP Time: [2023-10-09 19:10:16.071096]: ecg_data
+Local Time: 2023-10-09 18:10:16 [INFO] NTP Time: [2023-10-09 19:10:16.071786]: get_hr_data
+Local Time: 2023-10-09 18:10:17 [INFO] NTP Time: [2023-10-09 19:10:17.073124]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:17 [INFO] NTP Time: [2023-10-09 19:10:17.073276]: ecg_data
+Local Time: 2023-10-09 18:10:17 [INFO] NTP Time: [2023-10-09 19:10:17.074006]: get_hr_data
+Local Time: 2023-10-09 18:10:18 [INFO] NTP Time: [2023-10-09 19:10:18.075669]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:18 [INFO] NTP Time: [2023-10-09 19:10:18.075776]: ecg_data
+Local Time: 2023-10-09 18:10:18 [INFO] NTP Time: [2023-10-09 19:10:18.076367]: get_hr_data
+Local Time: 2023-10-09 18:10:19 [INFO] NTP Time: [2023-10-09 19:10:19.078118]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:19 [INFO] NTP Time: [2023-10-09 19:10:19.078270]: ecg_data
+Local Time: 2023-10-09 18:10:19 [INFO] NTP Time: [2023-10-09 19:10:19.079059]: get_hr_data
+Local Time: 2023-10-09 18:10:20 [INFO] NTP Time: [2023-10-09 19:10:20.080143]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:20 [INFO] NTP Time: [2023-10-09 19:10:20.080316]: ecg_data
+Local Time: 2023-10-09 18:10:20 [INFO] NTP Time: [2023-10-09 19:10:20.081237]: get_hr_data
+Local Time: 2023-10-09 18:10:21 [INFO] NTP Time: [2023-10-09 19:10:21.082534]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:21 [INFO] NTP Time: [2023-10-09 19:10:21.082746]: ecg_data
+Local Time: 2023-10-09 18:10:21 [INFO] NTP Time: [2023-10-09 19:10:21.083861]: get_hr_data
+Local Time: 2023-10-09 18:10:22 [INFO] NTP Time: [2023-10-09 19:10:22.085479]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:22 [INFO] NTP Time: [2023-10-09 19:10:22.085674]: ecg_data
+Local Time: 2023-10-09 18:10:22 [INFO] NTP Time: [2023-10-09 19:10:22.087017]: get_hr_data
+Local Time: 2023-10-09 18:10:23 [INFO] NTP Time: [2023-10-09 19:10:23.087886]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:23 [INFO] NTP Time: [2023-10-09 19:10:23.088117]: ecg_data
+Local Time: 2023-10-09 18:10:23 [INFO] NTP Time: [2023-10-09 19:10:23.090777]: get_hr_data
+Local Time: 2023-10-09 18:10:24 [INFO] NTP Time: [2023-10-09 19:10:24.092188]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:24 [INFO] NTP Time: [2023-10-09 19:10:24.092477]: ecg_data
+Local Time: 2023-10-09 18:10:24 [INFO] NTP Time: [2023-10-09 19:10:24.094329]: get_hr_data
+Local Time: 2023-10-09 18:10:25 [INFO] NTP Time: [2023-10-09 19:10:25.095560]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:25 [INFO] NTP Time: [2023-10-09 19:10:25.095763]: ecg_data
+Local Time: 2023-10-09 18:10:25 [INFO] NTP Time: [2023-10-09 19:10:25.097372]: get_hr_data
+Local Time: 2023-10-09 18:10:26 [INFO] NTP Time: [2023-10-09 19:10:26.098565]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:26 [INFO] NTP Time: [2023-10-09 19:10:26.098754]: ecg_data
+Local Time: 2023-10-09 18:10:26 [INFO] NTP Time: [2023-10-09 19:10:26.100594]: get_hr_data
+Local Time: 2023-10-09 18:10:27 [INFO] NTP Time: [2023-10-09 19:10:27.103011]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:27 [INFO] NTP Time: [2023-10-09 19:10:27.103187]: ecg_data
+Local Time: 2023-10-09 18:10:27 [INFO] NTP Time: [2023-10-09 19:10:27.105122]: get_hr_data
+Local Time: 2023-10-09 18:10:28 [INFO] NTP Time: [2023-10-09 19:10:28.106243]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:28 [INFO] NTP Time: [2023-10-09 19:10:28.106479]: ecg_data
+Local Time: 2023-10-09 18:10:28 [INFO] NTP Time: [2023-10-09 19:10:28.109234]: get_hr_data
+Local Time: 2023-10-09 18:10:29 [INFO] NTP Time: [2023-10-09 19:10:29.110463]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:29 [INFO] NTP Time: [2023-10-09 19:10:29.110646]: ecg_data
+Local Time: 2023-10-09 18:10:29 [INFO] NTP Time: [2023-10-09 19:10:29.113089]: get_hr_data
+Local Time: 2023-10-09 18:10:30 [INFO] NTP Time: [2023-10-09 19:10:30.114726]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:30 [INFO] NTP Time: [2023-10-09 19:10:30.114908]: ecg_data
+Local Time: 2023-10-09 18:10:30 [INFO] NTP Time: [2023-10-09 19:10:30.117850]: get_hr_data
+Local Time: 2023-10-09 18:10:31 [INFO] NTP Time: [2023-10-09 19:10:31.119065]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:31 [INFO] NTP Time: [2023-10-09 19:10:31.119390]: ecg_data
+Local Time: 2023-10-09 18:10:31 [INFO] NTP Time: [2023-10-09 19:10:31.122525]: get_hr_data
+Local Time: 2023-10-09 18:10:32 [INFO] NTP Time: [2023-10-09 19:10:32.124303]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:32 [INFO] NTP Time: [2023-10-09 19:10:32.124562]: ecg_data
+Local Time: 2023-10-09 18:10:32 [INFO] NTP Time: [2023-10-09 19:10:32.127412]: get_hr_data
+Local Time: 2023-10-09 18:10:33 [INFO] NTP Time: [2023-10-09 19:10:33.128854]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:33 [INFO] NTP Time: [2023-10-09 19:10:33.129217]: ecg_data
+Local Time: 2023-10-09 18:10:33 [INFO] NTP Time: [2023-10-09 19:10:33.132408]: get_hr_data
+Local Time: 2023-10-09 18:10:34 [INFO] NTP Time: [2023-10-09 19:10:34.133410]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:34 [INFO] NTP Time: [2023-10-09 19:10:34.133701]: ecg_data
+Local Time: 2023-10-09 18:10:34 [INFO] NTP Time: [2023-10-09 19:10:34.138383]: get_hr_data
+Local Time: 2023-10-09 18:10:35 [INFO] NTP Time: [2023-10-09 19:10:35.140250]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:35 [INFO] NTP Time: [2023-10-09 19:10:35.140542]: ecg_data
+Local Time: 2023-10-09 18:10:35 [INFO] NTP Time: [2023-10-09 19:10:35.144617]: get_hr_data
+Local Time: 2023-10-09 18:10:36 [INFO] NTP Time: [2023-10-09 19:10:36.146090]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:36 [INFO] NTP Time: [2023-10-09 19:10:36.146598]: ecg_data
+Local Time: 2023-10-09 18:10:36 [INFO] NTP Time: [2023-10-09 19:10:36.150526]: get_hr_data
+Local Time: 2023-10-09 18:10:37 [INFO] NTP Time: [2023-10-09 19:10:37.152564]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:37 [INFO] NTP Time: [2023-10-09 19:10:37.152877]: ecg_data
+Local Time: 2023-10-09 18:10:37 [INFO] NTP Time: [2023-10-09 19:10:37.156813]: get_hr_data
+Local Time: 2023-10-09 18:10:38 [INFO] NTP Time: [2023-10-09 19:10:38.158490]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:38 [INFO] NTP Time: [2023-10-09 19:10:38.158749]: ecg_data
+Local Time: 2023-10-09 18:10:38 [INFO] NTP Time: [2023-10-09 19:10:38.162458]: get_hr_data
+Local Time: 2023-10-09 18:10:39 [INFO] NTP Time: [2023-10-09 19:10:39.163289]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:39 [INFO] NTP Time: [2023-10-09 19:10:39.163673]: ecg_data
+Local Time: 2023-10-09 18:10:39 [INFO] NTP Time: [2023-10-09 19:10:39.167765]: get_hr_data
+Local Time: 2023-10-09 18:10:40 [INFO] NTP Time: [2023-10-09 19:10:40.169329]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:40 [INFO] NTP Time: [2023-10-09 19:10:40.169679]: ecg_data
+Local Time: 2023-10-09 18:10:40 [INFO] NTP Time: [2023-10-09 19:10:40.173232]: get_hr_data
+Local Time: 2023-10-09 18:10:41 [INFO] NTP Time: [2023-10-09 19:10:41.174803]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:41 [INFO] NTP Time: [2023-10-09 19:10:41.175037]: ecg_data
+Local Time: 2023-10-09 18:10:41 [INFO] NTP Time: [2023-10-09 19:10:41.179977]: get_hr_data
+Local Time: 2023-10-09 18:10:42 [INFO] NTP Time: [2023-10-09 19:10:42.181700]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:42 [INFO] NTP Time: [2023-10-09 19:10:42.181982]: ecg_data
+Local Time: 2023-10-09 18:10:42 [INFO] NTP Time: [2023-10-09 19:10:42.187318]: get_hr_data
+Local Time: 2023-10-09 18:10:43 [INFO] NTP Time: [2023-10-09 19:10:43.188180]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:43 [INFO] NTP Time: [2023-10-09 19:10:43.188537]: ecg_data
+Local Time: 2023-10-09 18:10:43 [INFO] NTP Time: [2023-10-09 19:10:43.193981]: get_hr_data
+Local Time: 2023-10-09 18:10:44 [INFO] NTP Time: [2023-10-09 19:10:44.195961]: Using the local timmer to pretend to be NTP time. Data recorded
+Local Time: 2023-10-09 18:10:44 [INFO] NTP Time: [2023-10-09 19:10:44.196336]: ecg_data
+Local Time: 2023-10-09 18:10:44 [INFO] NTP Time: [2023-10-09 19:10:44.214574]: get_hr_data
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188118]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188255]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188319]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188370]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188418]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188465]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188512]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188562]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188610]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188658]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188707]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188754]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188802]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188850]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188898]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.188958]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189121]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189266]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189335]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189390]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189444]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189514]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189586]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189648]: Polar H10 device not found. 
+Local Time: 2023-10-09 18:10:47 [ERROR] NTP Time: [2023-10-09 19:10:47.189704]: Polar H10 device not found. 
